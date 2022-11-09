@@ -1,0 +1,30 @@
+.idCard {
+    border: 2px solid #000000;
+    text-align: left;
+    display: flex;
+    /* padding: 5px; */
+    margin: 20px;
+}
+
+.idCard>img {
+    width: 10%;
+    height: auto;
+    margin: 5px;
+}
+
+.data {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.data>p {
+    margin: 0;
+    padding: 0;
+}
+
+.dataDescription {
+    font-weight: 700;
+}

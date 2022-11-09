@@ -1,0 +1,18 @@
+.creditCard {
+    padding: 20px;
+    border-radius: 10px;
+    width: 25%;
+}
+
+.creditCard>header {
+    text-align: right;
+}
+
+.creditCard>p {
+    text-align: left;
+    margin: 0;
+}
+
+.bank {
+    margin: 0 0 0 30px;
+}
