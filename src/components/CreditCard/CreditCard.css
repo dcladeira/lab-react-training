@@ -1,11 +1,21 @@
 .creditCard {
-    padding: 20px;
+    padding: 10px 20px 20px 20px;
     border-radius: 10px;
     width: 25%;
 }
 
-.creditCard>header {
-    text-align: right;
+.creditCard img {
+    height: 20px;
+    width: auto;
+    margin: 0 0 20px 0;
+    padding: 10px;
+    /* display: flex; */
+    /* align-self: flex-end; */
+    float: right;
+}
+
+.creditCard h1 {
+    clear: both;
 }
 
 .creditCard>p {

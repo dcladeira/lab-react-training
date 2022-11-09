@@ -53,6 +53,7 @@ function App() {
           color="white" 
         />
       </section>
+      <h1>Iteration 6</h1>
     </div>
   );
 }
